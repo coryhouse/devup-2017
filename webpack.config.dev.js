@@ -3,7 +3,6 @@ var path = require('path');
 
 module.exports = {
   devtool: 'cheap-module-eval-source-map',
-  noInfo: true,
   target: 'web',
   entry: [
     'webpack-hot-middleware/client?reload=true',
