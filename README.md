@@ -1,3 +1,5 @@
+# Build a JS Dev Environment in 1 Hour
+
 This repository shows the finished product of the JS Development Environment I built in ~~1 hour~~ 30 minutes at Codemash 2017. 
 
 ## More Info and Inspiration
