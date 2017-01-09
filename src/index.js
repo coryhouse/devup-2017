@@ -1,5 +1,5 @@
 const sayHi = () => {
-    console.log('hello world??!');
+    console.log('hello world!');
 };
 
 export function add(a, b) {
