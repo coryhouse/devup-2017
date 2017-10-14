@@ -1,6 +1,6 @@
 # Build a JS Dev Environment in 1 Hour
 
-This repository shows the finished product of the JS Development Environment I built in 1 hour at KCDC 2017. 
+This repository shows the finished product of the JS Development Environment I built in 1 hour at DevUp 2017. 
 
 ## More Info and Inspiration
 - **Course**: [Building a JavaScript Development Environment on Pluralsight](https://app.pluralsight.com/library/courses/javascript-development-environment/table-of-contents)
